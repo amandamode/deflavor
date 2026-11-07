@@ -1,0 +1,7 @@
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.env
+!config.example.env
